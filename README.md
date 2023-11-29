@@ -6,3 +6,4 @@
 - RTSP Camera Plugin
 - Rebroadcast Plugin
 - Video Analysis Plugin
+![alt text](https://github.com/HomeAssista/scrypted/blob/main/Снимок%20экрана%202023-11-29%20в%2022.10.31.png)
